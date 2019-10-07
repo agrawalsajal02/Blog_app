@@ -6,6 +6,7 @@
 * Type "npm install"
 * Type net start MongoDB  , make sure mongo server is runnning
 * Type "node app.js"
+* or Type "npm run start"
 * for views html pages try "python -m SimpleHTTPServer 8000"
 
 AUTHOR
