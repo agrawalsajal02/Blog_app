@@ -21,14 +21,14 @@ NIT PATNA
 
 
 
-# important notes wile creating this application
+# important notes while creating this application
 
 '''
 
 * rest stand for representational state transfer
-# rest a wy of mapping http and crud together
+### rest a way of mapping http and crud together
 * it is just  a pattern, it is just a convention or architure of mapping 
-# it is pattern of routes that we follow
+### it is pattern of routes that we follow
 create
 read
 update
