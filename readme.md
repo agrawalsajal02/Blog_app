@@ -1,8 +1,7 @@
 # Blog App Created Using Nodejs Express  MONGODB & Sementic UI 
 
-```
-Visit Website(http://www.sajalagrawal14.me)
-```
+ 
+ * Visit Website(http://www.sajalagrawal14.me)
 
 ## Steps to Install
 * Clone the Package
